@@ -1,0 +1,10 @@
+.idea/*.*
+.ipynb_checkpoints/*.*
+output_images/*
+non-vehicles/*/*.png
+vehicles/*/*.png
+test_images/*
+output_images/*
+smallest/*
+python/*
+*.p
